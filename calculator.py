@@ -2,7 +2,7 @@ import streamlit as st
 
 # Title and description
 st.title(" simple Calculator")
-st.write("Perform various arithmetic operations like addition, subtraction, multiplication, division, average, percentage, dividend, and multiple with multiple numbers.")
+st.write(" i can Perform various arithmetic operations.")
 
 # Input fields for numbers
 numbers = st.text_area("Enter numbers separated by commas:")
